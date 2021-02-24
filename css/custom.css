@@ -1,0 +1,23 @@
+.dark-layout .menuzord-menu > li > a {
+    color: #fff;
+}
+.img-icon-service-box {
+    background-color: #fff;
+    border: 1px solid #e1e3e6;
+    padding: 79px 17px;
+    position: relative;
+    padding-top: 40px;
+    transition: all 0.3s ease;
+}
+.menuzord .showhide em {
+    width: 26px;
+    height: 3px;
+    margin: 4px 20px 0;
+    float: right;
+    background: #fff;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+}
+.divider-current-theme-style1 .experience-iconbox {
+    width: 216px;
+}
